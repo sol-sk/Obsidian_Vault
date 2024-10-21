@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "8b2197734c150133",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efd4d298dbbb6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5753f937b0454260",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a3c04a30fbd644",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c1bfc97dc0668d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2e7b27fa137fcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1aa1326a0a9bb574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e24bcf9b730e6bb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "640bfd45c46bf19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d85654ee040febb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b7977053fe9908",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Periodic Notes/W42-10-24.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of W42-10-24"
+            }
+          },
+          {
+            "id": "2721abe4a8b0ac41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Periodic Notes/W42-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for W42-10-24"
+            }
+          },
+          {
+            "id": "2b7ff1b60ce0ca92",
+            "type": "leaf",
+            "state": {
+              "type": "file-view",
+              "state": {},
+              "icon": "chevron-right-square",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c2cb2c13df16220",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-view",
+              "state": {},
+              "icon": "chevron-left-square",
+              "title": "Canvas"
+            }
+          },
+          {
+            "id": "fd7dd2efee8ce61c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e09d8c8929837899",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {},
+              "icon": "layout-list",
+              "title": "GCal Schedule View"
+            }
+          },
+          {
+            "id": "023b1cfdb8b4e397",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fe8f7c5273287ae2",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {},
+              "icon": "layout-template",
+              "title": "GCal Timeline View"
+            }
+          },
+          {
+            "id": "5bee3591d33a7e39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Periodic Notes/W42-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from W42-10-24"
+            }
+          },
+          {
+            "id": "48382d7e8a9321d8",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "GCal Month View"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:Export to PDF...": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "5753f937b0454260",
+  "lastOpenFiles": [
+    "W2023T2/W2023T2 Files/annotated-PSYC304B-L14-learning_4.pdf",
+    "W2023T2/W2023T2 Files/Textbooks/ztable.pdf",
+    "W2023T2/W2023T2 Files/Textbooks/TO DO.md",
+    "W2023T2/W2023T2 Files/Textbooks/Formulae.pdf",
+    "W2023T2/W2023T2 Files/Textbooks",
+    "W2023T2/W2023T2 Files/Syllabi/VISA 330 Syllabus.pdf",
+    "W2023T2/W2023T2 Files/Syllabi/RMST 280 Syllabus.pdf",
+    "W2023T2/W2023T2 Files/Syllabi/PSYC 304 Syllabus (T2).pdf",
+    "W2023T2/W2023T2 Files/Syllabi/PSYC 218 Syllabus.pdf",
+    "W2023T2/W2023T2 Files/Syllabi/PHIL 125 Syllabus.pdf",
+    "W2023T2/W2023T2 Files/Syllabi/COGS 300 Syllabus.pdf",
+    "W2023T2/W2023T2 Files/Syllabi",
+    "W2023T2/W2023T2 Files/Slides/Sleep Circuits Ch 14.gif",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-19 at 11.33.02 AM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 6.22.34 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 6.20.30 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 6.15.24 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 4.30.56 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 4.29.34 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 3.19.05 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-18 at 3.18.09 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-04-17 at 4.48.37 PM.png",
+    "W2023T2/W2023T2 Files/Screenshots/Screenshot 2024-02-14 at 5.04.11 PM.png.md",
+    "W2023T2/RMST 280 Notes/RMST 280.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L9 Motorcycle Diaries end and intro to Cuban Revolution.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L8 End of Motorcycle Diaries.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L7 Motorcycle Diaries 2.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L6 Motorcycle Diaries.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L5 End of Ariel.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L32 Reflection.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L4 Ariel 2.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L31 Zapatistas.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L30 Spain.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L3 Ariel.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L29 Cabezas, Quixote, Factions.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L28 Cabezas (no notes).md",
+    "W2023T2/RMST 280 Notes/RMST 280 L27 Sandanistas Fire from the Mountain.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L25 + 26 Intro to Sandanistas.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L24 Subcommander Marcos 3 + Assembly.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L23 Subcommander Marcos 2.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L22 Subcommander Marcos.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L21 El Grito cont..md",
+    "W2023T2/RMST 280 Notes/RMST 280 L20 El Grito.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L2 Intro to LatAm History + Rodo.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L19 Massacre Wrapup.md",
+    "W2023T2/RMST 280 Notes/RMST 280 L18 Massacre 3.md",
+    "W2023T2/PSYC 304B E3.canvas",
+    "W2023T2/PSYC 304B E2.canvas",
+    "W2023T2/PSYC 304B E1.canvas",
+    "W2023T2/PSYC 218 E3.canvas",
+    "W2023T2/PSYC 218 E2.canvas",
+    "W2023T2/PSYC 218 E1.canvas",
+    "W2024/W2024T1/COGS 401/COGS 401.canvas",
+    "W2023T1/PSYC304 E3.canvas",
+    "W2023T1/PSYC304 E2 Map.canvas",
+    "W2023T1/PSYC304 E1 Map.canvas"
+  ]
+}
