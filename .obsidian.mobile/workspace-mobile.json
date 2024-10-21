@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "56072734c35248dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "050e414022da87af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a70bffce9a7fe4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7319571c2285400",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2726c5b136ea5029",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b254728b6754d9c6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4cd58acfd788a5f6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e5bc91b99ceee801",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1c74b5e6c1092d70",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d40820a3dd883a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8c4b785ff2e7e0c7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c6ce2e1372a6187e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a70bffce9a7fe4e3",
+  "lastOpenFiles": [
+    "W2023T1/W2023T1 Files/Screen Shot 2023-11-02 at 10.08.05 AM.png",
+    "W2023T1/W2023T1 Files/Douglas Inductive Risk and Values in Science.pdf",
+    "W2023T1/W2023T1 Files/Popper excerpt from Conjectures and Refutations.pdf",
+    "W2023T1/W2023T1 Files/Russell Science and Values.pdf",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-12-09 at 2.50.16 PM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.50.37 AM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-12-06 at 2.33.42 PM.png",
+    "W2023T1/W2023T1 Files/PSYC304 Lecture 03 - Research methods.pdf",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-11-16 at 9.54.54 AM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-12-09 at 2.36.46 PM.png",
+    "W2023T1/W2023T1 Files/Hajek interpretations of probability.pdf",
+    "W2023T1/W2023T1 Files/The Promise Of Artificial Intelligence Reckoning And Judgment (Brian Cantwell Smith) (Z-Library).pdf",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-10-08 at 11.28.29 AM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 10.34.57 AM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-10-26 at 3.20.40 PM.png",
+    "W2023T1/W2023T1 Files/Stein2018-Highereducationandtheimpossibilityoftransformativejustice 1.pdf",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-12-15 at 5.29.44 PM.png",
+    "W2023T1/W2023T1 Files/Screen Shot 2023-10-15 at 12.39.57 PM.png",
+    "W2023T1/W2023T1 Files/PHIL351 syllabus (2023 fall).pdf",
+    "W2023T1/W2023T1 Files/02.Psyc.217.Wk1Fri.topost003.pdf",
+    "W2023T1/W2023T1 Files/19.Psyc.217.Wk9Wed.topost.pdf",
+    "W2023T1/W2023T1 Files/Deloria Unfolding Futures.md",
+    "W2023T1/W2023T1 Files/Nelson Original Instructions.md",
+    "W2023T1/W2023T1 Files/Dods Ways of Knowing.md",
+    "W2023T1/W2023T1 Files/Bull Power of Images Burlington Magazine.md",
+    "W2023T1/W2023T1 Files/Cajete Native Science.md",
+    "W2023T1/W2023T1 Files/Ahenakew Grafting Indigenous Ways.md",
+    "W2023T1/W2023T1 Files/Freedberg Power of Images.md",
+    "W2023T1/W2023T1 Files/Barnhardt Indigenous Knowledge Systems.md",
+    "W2023T1/W2023T1 Files/Peat Blackfoot Physics.md",
+    "W2023T1/W2023T1 Files/Kimmerer Braiding Sweetgrass.md",
+    "W2023T1/PSYC304 L2 History of Psychology and Neurointroduction.md",
+    "W2023T1/PSYC304 L10 Neural Communication.md",
+    "W2023T1/217 E1 Basic definitions - Scientific Method.md",
+    "W2023T1/217 E1 \"Unscientific\" methods.md",
+    "W2023T1/217 E1 Experimental Study Design -  Between subjects.md",
+    "W2023T1/217 E1 Operational definitions of IV - Straightforward vs Staged.md",
+    "W2023T1/217 E1 TB Chapter 4 - Research Design Fundamentals.md",
+    "W2023T1/COGS303 Final Map.canvas",
+    "W2023T1/PSYC217 L25 Questionnaires and sampling.md",
+    "W2023T1/PHIL351 L1 Introduction, definition, and objectives.md",
+    "W2023T1/PHIL 351.md",
+    "W2023T1/217 E1 Experimental Study Design - Within subjects.md",
+    "W2023T1/PSYC304 L1 Syllabus and introduction.md",
+    "W2023T1/PSYC217 Chapter 14 Generalizing Results.md",
+    "W2023T1/Screen Shot 2023-11-02 at 10.44.37 AM..md",
+    "W2023T1/PHIL351 L4 Defining Intelligence (computationally).md",
+    "W2023T1/PSYC217 E1 Map.canvas",
+    "W2023T1/PHIL351 E2 Map.canvas",
+    "W2023T1/PSYC304 E1 Map.canvas",
+    "W2023T1/PSYC217 E3 Map.canvas",
+    "W2023T1/PSYC304 E2 Map.canvas",
+    "W2023T1/PHIL351 E1 Map.canvas",
+    "W2023T1/COGS303 Final Map 2.canvas",
+    "W2023T1/PSYC304 E3.canvas",
+    "W2023T2/PSYC 218 E1.canvas"
+  ]
+}
